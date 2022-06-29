@@ -1,0 +1,16 @@
+.inner {
+    max-width: 2560px;
+    height: 70px;
+    padding: 18px;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+
+}
+
+body {
+    height: 6000px;
+}
